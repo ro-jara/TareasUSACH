@@ -1,3 +1,5 @@
+// Tarea05 Promedio de Notas
+
 function obtenerSumaNotas(notas) {
   let suma = 0;
   for (let i = 0; i < notas.length; i++) {
